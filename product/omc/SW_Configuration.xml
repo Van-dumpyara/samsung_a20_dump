@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A205F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OLM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A205FOLM</CSCName>
+        <CSCVersion>BCWC5</CSCVersion>
+        <NbCustomer>11</NbCustomer>
+        <CustomerData src="/Customer/THL/customer.xml" />
+        <CustomerData src="/Customer/CAM/customer.xml" />
+        <CustomerData src="/Customer/LAO/customer.xml" />
+        <CustomerData src="/Customer/XME/customer.xml" />
+        <CustomerData src="/Customer/XXV/customer.xml" />
+        <CustomerData src="/Customer/MYM/customer.xml" />
+        <CustomerData src="/Customer/SIN/customer.xml" />
+        <CustomerData src="/Customer/MM1/customer.xml" />
+        <CustomerData src="/Customer/XSP/customer.xml" />
+        <CustomerData src="/Customer/STH/customer.xml" />
+        <CustomerData src="/Customer/CPW/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>CAM</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_CAM_RR_0002</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.android.carriermatching" />
+                <package name="com.opera.max.oem" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CPW</CustomerCode>
+            <Version>SAOMC_SM-A750GN_OLM_CPW_OO_0001</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>LAO</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_LAO_RR_0002</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="com.opera.max.oem" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MM1</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_MM1_RR_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.app.m1remit" />
+                <package name="com.m1.mym1" />
+                <package name="deezer.android.app" />
+                <package name="com.ministryofhomeaffairs.sgsecure.mhasg" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+                <package name="sg.gov.mnd.OneService" />
+                <package name="com.opera.max.oem" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MYM</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_MYM_RR_0002</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+                <package name="com.samsung.android.carriermatching" />
+                <package name="com.opera.max.oem" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SIN</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_SIN_RR_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.ministryofhomeaffairs.sgsecure.mhasg" />
+                <package name="com.opera.max.oem" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>STH</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_STH_RR_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.starhub.csselfhelp" />
+                <package name="com.ministryofhomeaffairs.sgsecure.mhasg" />
+                <package name="com.starhub.itv" />
+                <package name="com.opera.max.oem" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>THL</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_THL_RR_0002</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+                <package name="com.samsung.playback" />
+                <package name="com.samsung.th.galaxyappcenter" />
+                <package name="com.lazada.android" />
+                <package name="com.samsung.privilege" />
+                <package name="com.opera.max.oem" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XME</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_XME_RR_0002</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.lazada.android" />
+                <package name="com.opera.max.oem" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XSP</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_XSP_RR_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.ministryofhomeaffairs.sgsecure.mhasg" />
+                <package name="com.opera.max.oem" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XXV</CustomerCode>
+            <Version>SAOMC_SM-A205F_OLM_XXV_RR_0003</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="com.samsungvietnam.quatanggalaxy" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+                <package name="com.lazada.android" />
+                <package name="com.samsung.android.app.camera.sticker.local_csc.preload" />
+                <package name="com.zing.zalo" />
+                <package name="com.zing.mp3" />
+                <package name="com.epi" />
+                <package name="com.opera.max.oem" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

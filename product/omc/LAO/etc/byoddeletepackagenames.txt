@@ -1,0 +1,7 @@
+com.amazon.appmanager
+com.amazon.mShop.android.shopping
+com.amazon.appmanager
+com.amazon.appmanager
+com.srbr.UWT.stk1RRO
+com.srbr.UWT.stk2RRO
+com.samsung.vvm

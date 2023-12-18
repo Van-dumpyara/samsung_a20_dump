@@ -1,0 +1,15 @@
+{
+    "note": "Remove all ims service of TPG operator",
+    "imsswitch_update": {
+        "imsswitch": [
+            {
+                "mnoname": "TPG_SG",
+                "enableIms": false,
+                "enableServiceVolte": false,
+                "enableServiceVowifi": false,
+                "enableServiceVilte": false,
+                "enableServiceSmsip": false
+            }
+        ]
+    }
+}
